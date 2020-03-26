@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="add">ADD</string>
+    <string name="read">READ</string>
+    <string name="clear">CLEAR</string>
+</resources>
